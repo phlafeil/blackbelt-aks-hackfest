@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Chocolate for evryone Team
+        Azure Chocolate for everyone Team
       </div>
       <div class="col-lg-6">
       </div>
